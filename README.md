@@ -22,8 +22,4 @@ The project involves writing complex SQL queries for data analysis, including ag
 ## Data and Dataset
 A public e-commerce sales dataset is used to simulate real-world sales data. The dataset includes product information, sales amounts, customer information, and order dates.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ecommerce-sales-dashboard.git
 
